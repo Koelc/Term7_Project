@@ -1,0 +1,8 @@
+com\Dao\UserDao.class
+com\DaoImpl\UserDaoImpl.class
+com\model\Supplier.class
+com\model\User.class
+com\controller\homeController.class
+com\model\Category.class
+com\Config\HibernateConfig.class
+com\model\Product.class
